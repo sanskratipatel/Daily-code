@@ -1,2 +1,1 @@
 # Daily-code
-Daily-code 
