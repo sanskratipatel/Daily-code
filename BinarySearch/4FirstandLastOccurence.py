@@ -22,6 +22,9 @@ while(low <= high) :
 print("We find Result = ",result) 
 
 
+my_dict = {"A" :1 , "B":3 , "C" :4} 
+# my = {x: my_dict[x] * my_dict[x]  for x in my_dict } 
+# print(my)
 arr1 = [ 1,2,3,4,4,4,4,5,6,7,8] 
 
 low1 = 0 
